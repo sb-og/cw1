@@ -1,0 +1,14 @@
+C:\Users\Admin\Source\PodstawyProgramowanieCW1\pprog1\bin\Debug\net8.0\pprog1.exe
+C:\Users\Admin\Source\PodstawyProgramowanieCW1\pprog1\bin\Debug\net8.0\pprog1.deps.json
+C:\Users\Admin\Source\PodstawyProgramowanieCW1\pprog1\bin\Debug\net8.0\pprog1.runtimeconfig.json
+C:\Users\Admin\Source\PodstawyProgramowanieCW1\pprog1\bin\Debug\net8.0\pprog1.dll
+C:\Users\Admin\Source\PodstawyProgramowanieCW1\pprog1\bin\Debug\net8.0\pprog1.pdb
+C:\Users\Admin\Source\PodstawyProgramowanieCW1\pprog1\obj\Debug\net8.0\pprog1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Source\PodstawyProgramowanieCW1\pprog1\obj\Debug\net8.0\pprog1.AssemblyInfoInputs.cache
+C:\Users\Admin\Source\PodstawyProgramowanieCW1\pprog1\obj\Debug\net8.0\pprog1.AssemblyInfo.cs
+C:\Users\Admin\Source\PodstawyProgramowanieCW1\pprog1\obj\Debug\net8.0\pprog1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\PodstawyProgramowanieCW1\pprog1\obj\Debug\net8.0\pprog1.dll
+C:\Users\Admin\Source\PodstawyProgramowanieCW1\pprog1\obj\Debug\net8.0\refint\pprog1.dll
+C:\Users\Admin\Source\PodstawyProgramowanieCW1\pprog1\obj\Debug\net8.0\pprog1.pdb
+C:\Users\Admin\Source\PodstawyProgramowanieCW1\pprog1\obj\Debug\net8.0\pprog1.genruntimeconfig.cache
+C:\Users\Admin\Source\PodstawyProgramowanieCW1\pprog1\obj\Debug\net8.0\ref\pprog1.dll
