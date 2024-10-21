@@ -20,12 +20,12 @@ namespace cwiczenia // Przestrzeń nazw dla zmiennych klas i innych typów danyc
         {
 
 
-            //zad_1_do_13();
+            //zad_2_do_13();
             zad_14();
             zad_15();
 
 
-            void zad_1_do_13()
+            void zad_2_do_13()
             {
                 /*
                 2. Wypisz na konsoli tekst „Hello World” za pomocą polecenia Console.Write() następnie 
